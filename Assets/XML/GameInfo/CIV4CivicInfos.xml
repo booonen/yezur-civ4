@@ -545,7 +545,7 @@
 			<Civilopedia>TXT_KEY_CIVIC_UNIVERSAL_SUFFRAGE_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_CIVIC_UNIVERSAL_SUFFRAGE_STRATEGY</Strategy>
 			<Button>,Art/Interface/Buttons/Civics/Universal_Sufferage.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,8,3</Button>
-			<TechPrereq>TECH_WOMENS_RIGHTS</TechPrereq>
+			<TechPrereq>TECH_EMANCIPATION</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
 			<Upkeep>UPKEEP_MEDIUM</Upkeep>
 			<iAIWeight>0</iAIWeight>

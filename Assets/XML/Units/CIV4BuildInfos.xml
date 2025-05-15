@@ -86,7 +86,7 @@
 			<Type>BUILD_MODERN_ROAD</Type>
 			<Description>Build a Highway</Description>
 			<Help/>
-			<PrereqTech>TECH_AUTOMOBILE</PrereqTech>
+			<PrereqTech>TECH_LOGISTICS</PrereqTech>
 			<iTime>300</iTime>
 			<iCost>0</iCost>
 			<bKill>0</bKill>
@@ -105,7 +105,7 @@
 			<Type>BUILD_RAILROAD_ELECTRIC</Type>
 			<Description>Build an Electrified Railroad</Description>
 			<Help/>
-			<PrereqTech>TECH_ELECTRONICS</PrereqTech>
+			<PrereqTech>TECH_MASS_TRANSIT</PrereqTech>
 			<iTime>300</iTime>
 			<iCost>0</iCost>
 			<bKill>0</bKill>
