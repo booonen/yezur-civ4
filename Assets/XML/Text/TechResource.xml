@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_TECH_BONUS_MODIFIER</Tag>
+		<English>[NEWLINE][ICON_BULLET]%D1_Change%% Research Rate with [LINK=literal]%s2[\LINK]</English>
+		<French>[NEWLINE][ICON_BULLET]%D1_Change%% Research Rate with [LINK=literal]%s2[\LINK]</French>
+		<German>[NEWLINE][ICON_BULLET]%D1_Change%% Research Rate with [LINK=literal]%s2[\LINK]</German>
+		<Italian>[NEWLINE][ICON_BULLET]%D1_Change%% Research Rate with [LINK=literal]%s2[\LINK]</Italian>
+		<Spanish>[NEWLINE][ICON_BULLET]%D1_Change%% Research Rate with [LINK=literal]%s2[\LINK]</Spanish>
+	</TEXT>
+</Civ4GameText>

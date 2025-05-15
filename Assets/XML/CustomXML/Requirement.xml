@@ -1,0 +1,51 @@
+################################### Requirement Script ##########################################
+## Modified by Platyping
+##
+## Change Requirement.loadEvents("Mods/RequirementScript/Assets/XML/CustomXML/Requirement.xml") in CvEventManager
+## to point to correct location after merging to own mods
+##
+## <Item> Building, Building Class, Special Building, Unit, Unit Class, Special Unit or Project
+## <iMinPopulation> Requires Minimum Population
+## <MinCultureLevel> Requires Minimum Culture Level
+## <bBuiltOnHills> Requires City to be Built on Hills
+## <bVicinityHills> Requires Hills in City Radius
+## <bVicinityPeak> Requires Peak in City Radius
+## <PrereqVicinityTerrain> Requires Terrain in City Radius (AND)
+## <PrereqVicinityORTerrain> Requires Terrain in City Radius (OR)
+## <PrereqVicinityFeature> Requires Feature in City Radius (AND)
+## <PrereqVicinityORFeature> Requires Feature in City Radius (OR)
+## <PrereqVicinityBonus> Requires Bonus in City Radius (AND)
+## <PrereqVicinityORBonus> Requires Bonus in City Radius (OR)
+## <AntiBuildings> Cannot have X in City (OR)
+###############################################################################################
+## Yezur Banned Tags
+## <PrereqORCivic> Requires Civic (OR)
+## <bWar> Requires Team to be at War
+## <bPeace> Requires Team to be at Peace
+## <iMinNationalityRatio> Requires Minimum Nationality Ratio
+## <PrereqVicinityImprovement> Requires Improvement in City Radius (AND)
+## <PrereqVicinityORImprovement> Requires Improvement in City Radius (OR)
+###############################################################################################
+
+<Event>
+	<Item>BUILDINGCLASS_ANIMAL_GARDEN</Item>
+	<AntiBuildings>
+		<BuildingType>BUILDINGCLASS_ROCK_GARDEN</BuildingType>
+		<BuildingType>BUILDINGCLASS_WATER_GARDEN</BuildingType>
+	</AntiBuildings>
+</Event>
+<Event>
+	<Item>BUILDINGCLASS_ROCK_GARDEN</Item>
+	<AntiBuildings>
+		<BuildingType>BUILDINGCLASS_ANIMAL_GARDEN</BuildingType>
+		<BuildingType>BUILDINGCLASS_WATER_GARDEN</BuildingType>
+	</AntiBuildings>
+	<bBuiltOnHills>1</bBuiltOnHills>
+</Event>
+<Event>
+	<Item>BUILDINGCLASS_WATER_GARDEN</Item>
+	<AntiBuildings>
+		<BuildingType>BUILDINGCLASS_ROCK_GARDEN</BuildingType>
+		<BuildingType>BUILDINGCLASS_ANIMAL_GARDEN</BuildingType>
+	</AntiBuildings>
+</Event>

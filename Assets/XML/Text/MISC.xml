@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Civ4GameText>
+   <TEXT>
+        <Tag>TXT_KEY_MISC_HELP_BONUS_COMMERCE</Tag>
+        <English>[ICON_BULLET]%D1%%%F2 from Bonus</English>
+        <French>[ICON_BULLET]%D1%%%F2 de bonus</French>
+        <German>[ICON_BULLET]%D1%%%F2 von Bonus</German>
+        <Polish>[ICON_BULLET]%D1%%%F2 od bonusów</Polish>
+        <Korean>[ICON_BULLET]자원으로부터 %D1%%%F2</Korean>
+        <Czech>[ICON_BULLET]%D1%%%F2 z bonusu</Czech>
+        <Russian>[ICON_BULLET]%D1%%%F2 от бонусов</Russian>
+        <Spanish>[ICON_BULLET]%D1%%%F2 por bonificaciones</Spanish>
+        <Ukrainian>[ICON_BULLET]%D1%%%F2 від бонусів</Ukrainian>
+    </TEXT>
+</Civ4GameText>

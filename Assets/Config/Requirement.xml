@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<mod id="Requirement"
+	 name="Requirement"
+	 module="Requirement"
+	 author="Platyping (BUG Integration by wibbol)"
+	 version="1.0" 
+	 date="18/04/2025"
+	 dll="0">
+
+	<init/>
+
+</mod>

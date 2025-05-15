@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_REQUIRES_POP</Tag>
+		<English>[NEWLINE][ICON_BULLET]Requires at least %d1 Population</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REQUIRES_CULTURE</Tag>
+		<English>[NEWLINE][ICON_BULLET]Requires at least %s1 [ICON_CULTURE]</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REQUIRES_NATIONALITY</Tag>
+		<English>[NEWLINE][ICON_BULLET]Requires at least %d1%% Nationality </English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REQUIRES_BUILT_ON_HILLS</Tag>
+		<English>[NEWLINE][ICON_BULLET]Requires City to be Built on Hills</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REQUIRES_WAR</Tag>
+		<English>[NEWLINE][ICON_BULLET]Requires Wartime</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REQUIRES_PEACE</Tag>
+		<English>[NEWLINE][ICON_BULLET]Requires Peacetime</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CANNOT_HAVE_BUILDING</Tag>
+		<English>[NEWLINE][ICON_BULLET]Cannot have</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REQUIRES_CIVICS</Tag>
+		<English>[NEWLINE][ICON_BULLET]Requires Civics:</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REQUIRES_VICINITY</Tag>
+		<English>[NEWLINE][ICON_BULLET]Requires in Vicinity:</English>
+	</TEXT>
+</Civ4GameText>

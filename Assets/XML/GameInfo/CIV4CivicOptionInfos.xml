@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Jesse Smith (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Civic Option -->
+<Civ4CivicOptionInfos xmlns="x-schema:CIV4GameInfoSchema.xml">
+	<CivicOptionInfos>
+		<CivicOptionInfo>
+			<Type>CIVICOPTION_GOVERNMENT</Type>
+			<Description>Governance</Description>
+			<TraitNoUpkeeps/>
+		</CivicOptionInfo>
+		<CivicOptionInfo>
+			<Type>CIVICOPTION_LEGAL</Type>
+			<Description>Legal Regime</Description>
+			<TraitNoUpkeeps/>
+		</CivicOptionInfo>
+		<CivicOptionInfo>
+			<Type>CIVICOPTION_LABOR</Type>
+			<Description>Labor System</Description>
+			<TraitNoUpkeeps/>
+		</CivicOptionInfo>
+		<CivicOptionInfo>
+			<Type>CIVICOPTION_ECONOMY</Type>
+			<Description>Economic Model</Description>
+			<TraitNoUpkeeps/>
+		</CivicOptionInfo>
+		<CivicOptionInfo>
+			<Type>CIVICOPTION_RELIGION</Type>
+			<Description>Religious Policy</Description>
+			<TraitNoUpkeeps/>
+		</CivicOptionInfo>
+		<CivicOptionInfo>
+			<Type>CIVICOPTION_MILITARY</Type>
+			<Description>Military Organization</Description>
+			<TraitNoUpkeeps/>
+		</CivicOptionInfo>
+		<CivicOptionInfo>
+			<Type>CIVICOPTION_KNOWLEDGE</Type>
+			<Description>Knowledge Control</Description>
+			<TraitNoUpkeeps/>
+		</CivicOptionInfo>
+		<CivicOptionInfo>
+			<Type>CIVICOPTION_RESOURCE</Type>
+			<Description>Resource Management</Description>
+			<TraitNoUpkeeps/>
+		</CivicOptionInfo>
+		<CivicOptionInfo>
+			<Type>CIVICOPTION_CULTURE</Type>
+			<Description>Culture and Media</Description>
+			<TraitNoUpkeeps/>
+		</CivicOptionInfo>
+	</CivicOptionInfos>
+</Civ4CivicOptionInfos>
